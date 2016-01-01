@@ -1,45 +1,45 @@
 {
-  "SleepGuide": {
+  "app": {
     "title": "SleepGuide",
     "url": "https://itunes.apple.com/us/app/sleepguide/id623633257?ls=1&mt=8",
   },
 
-  "FlyEZ": {
+  "app": {
     "title": "FlyEZ",
     "url": "https://itunes.apple.com/us/app/flyez/id543436616?ls=1&mt=8",
   },
 
-  "STOPтабак": {
+  "app": {
     "title": "STOPтабак",
     "url": "https://itunes.apple.com/us/app/stoptabak/id506965098?ls=1&mt=8",
   },
 
-  "РелаксТренинг": {
+  "app": {
     "title": "РелаксТренинг",
     "url": "http://itunes.apple.com/us/app/relakstrening/id499488207?ls=1&mt=8",
   },
 
-  "Уверенность в Себе": {
+  "app": {
     "title": "Уверенность в Себе",
     "url": "https://itunes.apple.com/us/app/uverennost-v-sebe/id590517842?ls=1&mt=8",
   },
 
-  "РелаксПолëт": {
+  "app": {
     "title": "РелаксПолëт",
     "url": "https://itunes.apple.com/us/app/relakspolet/id588239456?ls=1&mt=8",
   },
 
-  "Глубокий Cон": {
+  "app": {
     "title": "Глубокий Cон",
     "url": "https://itunes.apple.com/us/app/glubokij-son/id591697273?ls=1&mt=8",
   },
 
-  "Успокойся!": {
+  "app": {
     "title": "Успокойся!",
     "url": "https://itunes.apple.com/us/app/uspokojsa/id599477403?ls=1&mt=8",
   },
 
-  "Спасибо, не пью!": {
+  "app": {
     "title": "Спасибо, не пью!",
     "url": "https://itunes.apple.com/us/app/spasibo-ne-p-u/id609720757?ls=1&mt=8",
   },
