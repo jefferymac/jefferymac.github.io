@@ -1,10 +1,10 @@
 {
-  "app": [{
+  "app1": [{
     "title": "SleepGuide",
     "url": "https://itunes.apple.com/us/app/sleepguide/id623633257?ls=1&mt=8",
   }],
 
-  "app": [{
+  "app2": [{
     "title": "FlyEZ",
     "url": "https://itunes.apple.com/us/app/flyez/id543436616?ls=1&mt=8",
   }],
